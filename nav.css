@@ -143,6 +143,7 @@ body{
 /**Nature**/
 .nature{
     margin-top:100px;
+    width:80%;
 }
 .nature iframe{
     padding:0 40px;
