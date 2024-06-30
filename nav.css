@@ -151,7 +151,7 @@ body{
    
 }
 @media only screen and (max-width:768px){
-    .nature iframe{
+    .nature_col iframe{
         padding:0 10px;
         width:350px;
     }
@@ -384,6 +384,10 @@ body{
     .footer_row{
         flex-direction: column;
     }   
+}
+.icons a{
+    text-decoration: none;
+    color:white;
 }
 .icons{
     padding-top:50px;
